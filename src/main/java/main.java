@@ -6,7 +6,7 @@ public class main {
 
     private static final String name = "File.txt";
     private static final Random random = new Random();
-    private static final String characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdfghijklmnopqrstuvwxyz1234567890";
+    private static final String characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdfghijklmnopqrstuvwxyz0123456789";
 
     public static void main(String args[]) throws IOException {
         String DirectoryName = "";
